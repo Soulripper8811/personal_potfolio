@@ -12,6 +12,24 @@ const projects = [
   },
   {
     id: 2,
+    title: "AI Recipe Generator",
+    description:
+      "Generate your Favouirte food recipe using the AI With All its ingredients and Instructions.hosted on render require 1 min to start for first time",
+    image: "/projects/recipe.png",
+    tags: [
+      "Reactjs",
+      "Javascript",
+      "TailwindCSS",
+      "Expressjs",
+      "MonogDB",
+      "GENAI",
+      "Gemini",
+    ],
+    demoUrl: "https://ai-recipe-generator-7932.onrender.com/",
+    githubUrl: "https://github.com/Soulripper8811/Ai-recipe-generator",
+  },
+  {
+    id: 3,
     title: "AI SaaS Generator",
     description:
       "An AI-powered SaaS generator that creates web applications with advanced features.",
@@ -32,7 +50,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/ai-saas-generator-web",
   },
   {
-    id: 3,
+    id: 4,
     title: "Let's Connect-A social media platform",
     description:
       "A social media platform that connects people with similar interests.And allows users to share posts, images, and comments in real time.",
@@ -51,7 +69,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/LetsConnect-socialMedia",
   },
   {
-    id: 4,
+    id: 5,
     title: "AI Logo Maker",
     description:
       "An AI-powered logo maker that generates unique logos based on user input.User can select multiple styles and colors to create a personalized logo.",
@@ -69,7 +87,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/Ai-logo-maker",
   },
   {
-    id: 5,
+    id: 6,
     title: "Note Taker",
     description:
       "A note taking app that allows users to take notes and organize them into categories. And it was deployed on render.com. so might require 1 minute for starting the server.",
