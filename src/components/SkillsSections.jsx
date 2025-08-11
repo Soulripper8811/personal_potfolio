@@ -12,10 +12,15 @@ const skills = [
   { name: "Shadcn", level: 90, category: "frontend" },
   { name: "MaterialUI", level: 90, category: "frontend" },
   { name: "ChakraUI", level: 90, category: "frontend" },
+  { name: "Nuxtjs", level: 90, category: "frontend" },
+  { name: "vuejs", level: 90, category: "frontend" },
 
   // Backend
   { name: "Node.js", level: 90, category: "backend" },
   { name: "OpenAI", level: 90, category: "backend" },
+  { name: "Langchain", level: 90, category: "backend" },
+  { name: "LangGraph", level: 90, category: "backend" },
+  { name: "Replicate", level: 90, category: "backend" },
   { name: "Express", level: 90, category: "backend" },
   { name: "MongoDB", level: 90, category: "backend" },
   { name: "PostgreSQL", level: 90, category: "backend" },
@@ -28,7 +33,8 @@ const skills = [
   { name: "Git/GitHub", level: 90, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
   { name: "Postman", level: 95, category: "tools" },
-  { name: "Docker", level: 80, category: "tools" },
+  { name: "Docker", level: 90, category: "tools" },
+  { name: "Aws", level: 80, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
