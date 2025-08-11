@@ -25,6 +25,23 @@ const ExperienceSection = () => {
         "Nextjs",
       ],
     },
+    {
+      role: "Software Engineer",
+      company: "Vega Enterprises",
+      period: "jun 2025 - present",
+      description:
+        "Developed and maintained web applications using Nuxt.js a full stack framework. Collaborated with cross-functional teams to deliver high-quality software solutions and using mysql as database.",
+      tags: [
+        "Market Research",
+        "Iot Software",
+        "CRM",
+        "Typescript",
+        "Javascript",
+        "Nuxt.js",
+        "MySql",
+        "PostgreSQL",
+      ],
+    },
   ];
 
   return (
