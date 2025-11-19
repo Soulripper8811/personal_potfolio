@@ -28,7 +28,7 @@ const ExperienceSection = () => {
     {
       role: "Software Engineer",
       company: "Vega Enterprises",
-      period: "jun 2025 - present",
+      period: "jun 2025 - Nov 2025",
       description:
         "Developed and maintained web applications using Nuxt.js a full stack framework. Collaborated with cross-functional teams to deliver high-quality software solutions and using mysql as database.",
       tags: [

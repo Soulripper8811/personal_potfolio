@@ -30,6 +30,25 @@ const projects = [
   },
   {
     id: 3,
+    title: "RAG-Chat With Pdf",
+    description:
+      "Chat with your pdf file and get the answer from the RAG model. With stream response in real time and fast and easy to use.",
+    image: "/projects/rag-chat.png",
+    tags: [
+      "Nextjs",
+      "Javascript",
+      "TailwindCSS",
+      "PineconeDb",
+      "Gemini",
+      "Groq",
+      "Vector Embeddings",
+      "LLM",
+    ],
+    demoUrl: "https://ragchatbot-q9557vppc-soulripper8811s-projects.vercel.app",
+    githubUrl: "https://github.com/Soulripper8811/Ragchatbot",
+  },
+  {
+    id: 4,
     title: "AI Recipe Generator",
     description:
       "Generate your Favouirte food recipe using the AI With All its ingredients and Instructions.hosted on render require 1 min to start for first time",
@@ -47,7 +66,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/Ai-recipe-generator",
   },
   {
-    id: 4,
+    id: 5,
     title: "AI SaaS Generator",
     description:
       "An AI-powered SaaS generator that creates web applications with advanced features.",
@@ -68,7 +87,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/ai-saas-generator-web",
   },
   {
-    id: 5,
+    id: 6,
     title: "Let's Connect-A social media platform",
     description:
       "A social media platform that connects people with similar interests.And allows users to share posts, images, and comments in real time.",
@@ -87,7 +106,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/LetsConnect-socialMedia",
   },
   {
-    id: 6,
+    id: 7,
     title: "AI Logo Maker",
     description:
       "An AI-powered logo maker that generates unique logos based on user input.User can select multiple styles and colors to create a personalized logo.",
@@ -105,7 +124,7 @@ const projects = [
     githubUrl: "https://github.com/Soulripper8811/Ai-logo-maker",
   },
   {
-    id: 7,
+    id: 8,
     title: "Note Taker",
     description:
       "A note taking app that allows users to take notes and organize them into categories. And it was deployed on render.com. so might require 1 minute for starting the server.",
